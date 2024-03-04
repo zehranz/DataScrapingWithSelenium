@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilizes the Selenium library for web scraping operations. The main objective of the project is to fetch price data for specific cryptocurrencies and save this data to a CSV file.
+This project utilizes the Selenium library for web scraping operations. The main objective of the project is to fetch price data for specific cryptocurrencies and save this data to a CSV file. Also in this project contains a Jupyter Notebook (`CryptocurrencyDataAnalysis.ipynb`), where you can find a simple analysis of the brought cryptocurrency price data.
 
 ## Requirements
 
